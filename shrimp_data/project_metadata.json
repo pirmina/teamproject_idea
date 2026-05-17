@@ -1,0 +1,8 @@
+{
+  "projectName": "Team Blog CMS",
+  "description": "Notion을 CMS로 활용하여 팀의 블로그 포스트와 문서를 효율적으로 관리하고 공개하는 모던 웹 애플리케이션",
+  "phases": 5,
+  "totalTasks": 15,
+  "createdAt": "2026-05-17T00:00:00Z",
+  "status": "planning"
+}
